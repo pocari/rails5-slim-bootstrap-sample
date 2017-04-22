@@ -176,18 +176,17 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bootstrap-sass
-  byebug
+  bootstrap-sass (~> 3.3.7)
   coffee-rails (~> 4.2)
   jbuilder (~> 2.5)
   jquery-rails
   listen (~> 3.0.5)
-  pry
-  pry-byebug
+  pry (~> 0.10.4)
+  pry-byebug (~> 3.4.2)
   puma (~> 3.0)
   rails (~> 5.0.2)
   sass-rails (~> 5.0)
-  slim-rails
+  slim-rails (~> 3.1.2)
   spring
   spring-watcher-listen (~> 2.0.0)
   sqlite3
