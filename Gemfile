@@ -37,7 +37,7 @@ gem 'jbuilder', '~> 2.5'
 
 gem "pry"
 gem "pry-byebug"
-gem 'sass-rails', '~> 5.0'
+gem 'bootstrap-sass'
 gem 'slim-rails'
 
 group :development, :test do
