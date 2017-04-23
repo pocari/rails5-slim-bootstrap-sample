@@ -39,6 +39,7 @@ gem "pry", '~> 0.10.4'
 gem "pry-byebug", '~> 3.4.2'
 gem 'bootstrap-sass', '~> 3.3.7'
 gem 'slim-rails', '~> 3.1.2'
+gem 'pry-stack_explorer'
 
 group :development do
   # Access an IRB console on exception pages or by using <%= console %> anywhere in the code.
